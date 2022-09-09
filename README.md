@@ -1,5 +1,5 @@
 # pub_beamer-sample
-This repository contains LaTeX codes and a PDF file, the supplementary material for the following web-page on Qiita (in Japanese):  
+This repository contains LaTeX codes and a PDF file, the supplementary material for the following web-page on Qiita (in Japanese):
 [beamerでスライドづくり：Tipsとカスタムテンプレート]().  
 My intention is to illustrate my modified beamer template based on `metropolis` and some tips for preparing better-looking beamer slides.  
 I recommend you take a look at my scripts and **copy and paste the relevant parts only on your own scripts**, rather than simply downloading the whole scripts.
