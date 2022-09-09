@@ -1,0 +1,5 @@
+\beamer@sectionintoc {1}{ここがsection title ページ}{3}{0}{1}
+\beamer@sectionintoc {2}{スライドを水平方向に分割したい}{5}{0}{2}
+\beamer@sectionintoc {3}{ページ内の要素の幅を調節したい}{8}{0}{3}
+\beamer@sectionintoc {4}{frameに名前をつけて，あとで再掲することもできる}{11}{0}{4}
+\beamer@sectionintoc {5}{図を並べて配置したい}{13}{0}{5}
